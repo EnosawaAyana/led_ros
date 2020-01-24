@@ -6,6 +6,7 @@
 1 → LEDを点灯
 
 2 → LEDが５秒点灯し１秒消灯を３回繰り返す。
+
 デモ　→ https://youtu.be/tlezvTLKG80
 
 
