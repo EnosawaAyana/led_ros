@@ -16,9 +16,8 @@ C
 ## Setup
 ハードウェア：Rasberry Pi 3 Model B V1.2
 
-ソフトウェア：Raspbian　3.2.1
+ソフトウェア：Raspbian　3.2.1　・　ROS Melodic
 
-         ROS ROS Melodic
 ## Usage
 
 Rasberry Piの2２番ピンと３９番ピンにLEDを接続
