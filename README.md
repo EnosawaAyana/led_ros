@@ -16,7 +16,7 @@ C
 ## Setup
 ハードウェア：Rasberry Pi 3 Model B V1.2
 
-ソフトウェア：Raspbian　3.2.1　・　ROS Melodic
+ソフトウェア：Ubuntu 18.04・　ROS Melodic
 
 ## Usage
 
